@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "github.copilot",
+        "tabnine.tabnine-vscode",
+        "codeium.codeium",
+        "feiskyer.chatgpt-copilot",
+        "metatype.copilot-vscode",
+        "genieai.chatgpt-vscode",
+        "alibaba-cloud.tongyi-lingma",
+        "blackboxapp.blackbox",
+        "aminer.codegeex",
+        "sourcegraph.cody-ai",
+        "timkmecl.codegpt3"
+    ]
+}
